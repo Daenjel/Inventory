@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane prefHeight="300.0" prefWidth="300.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8.0.111" fx:controller="login.MainControler">
+   <children>
+      <Label contentDisplay="CENTER" layoutX="52.0" layoutY="119.0" prefHeight="17.0" prefWidth="197.0" text="Welcome" textAlignment="CENTER" textFill="#2dc225">
+         <font>
+            <Font name="Lucida Handwriting Italic" size="24.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
